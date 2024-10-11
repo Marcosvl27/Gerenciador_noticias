@@ -51,6 +51,7 @@
                         <option value="Tecnologia">Tecnologia</option>
                         <option value="Esportes">Esportes</option>
                         <option value="Entretenimento">Entretenimento</option>
+                        <option value="Geral">Geral</option>
                     </select>
                 </div>
                 <div class="col-md-3">
